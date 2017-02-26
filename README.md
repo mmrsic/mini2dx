@@ -1,2 +1,2 @@
-# mini2dx
-Games using mini2dx.org
+# miniTaxi
+A retro taxi game created to learn to code with mini2dx.org
